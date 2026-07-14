@@ -11,7 +11,6 @@
 
 - 🎓 MCA Graduate (2025)
 - 💻 Aspiring **Full Stack Developer**
-- 🌱 Currently learning **Java, Python, SQL, HTML, CSS, JavaScript**
 - 📚 Exploring **Spring Boot**, **SDLC**, and **STLC**
 - 🚀 Passionate about building web applications and continuously improving my development skills.
 - 📫 Email: **shahenoorsyed6@gmail.com**
