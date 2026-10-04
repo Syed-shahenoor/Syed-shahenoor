@@ -1,108 +1,49 @@
-<h1 align="center">Hi 👋, I'm Syed Shahenoor</h1>
-<h3 align="center">Full Stack Developer | Java Developer | Open to Work</h3>
+# Hi 👋, I'm Syed Shahenoor
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Learning+SDLC+%26+STLC;Open+to+Work" />
-</p>
+**MCA Graduate | Java Developer | Full Stack Developer | Open to Work**
 
----
+## About Me
 
-## 👨‍💻 About Me
+- 🎓 MCA Graduate, 2025
+- 💻 Interested in Java and Full Stack Development
+- 🌱 Currently learning Spring Boot, SDLC and STLC
+- 🚀 Interested in building practical web applications
+- 📫 Email: shahenoorsyed6@gmail.com
 
-- 🎓 MCA Graduate (2025)
-- 💻 Aspiring **Full Stack Developer**
-- 📚 Exploring **Spring Boot**, **SDLC**, and **STLC**
-- 🚀 Passionate about building web applications and continuously improving my development skills.
-- 📫 Email: **shahenoorsyed6@gmail.com**
+## Skills
 
----
+**Languages:** Java, Python, HTML, CSS, JavaScript, SQL
 
-## 🛠️ Skills & Tools
+**Technologies:** Spring Boot, REST APIs, MySQL
 
-### Programming Languages
+**Tools:** Git, GitHub, VS Code
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql" />
-</p>
+## Projects
 
-### Tools
+### Library Management System
+Java, Spring Boot, MySQL, HTML, CSS, JavaScript  
+- Built a web-based library management system
+- Implemented CRUD operations using REST APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### Motion Estimation of Multiple Vehicles
+Python, OpenCV, YOLOv8, Deep SORT  
+- Developed a vehicle detection and tracking system
+- Estimated vehicle speed and identified overspeeding
 
----
+### Resume Builder
+HTML, CSS, JavaScript  
+- Created a simple web-based resume generator
 
-## 🚀 Projects
+### Voice Timer App
+HTML, CSS, JavaScript  
+- Built a voice-controlled timer using the Web Speech API
 
-### 📚 Library Management System
-- Spring Boot, Java, MySQL, HTML, CSS, JavaScript
-- CRUD operations using REST APIs
+## Connect With Me
 
-### 🚗 Motion Estimation of Multiple Vehicles
-- Python, OpenCV, YOLOv8, Deep SORT
-- Vehicle detection, tracking and speed estimation
-
-### 📄 Resume Builder
-- HTML, CSS and JavaScript based resume generator
-
-### 🎤 Voice Timer App
-- Voice-controlled timer using Web Speech API
-
-### 🎯 Number Guessing Game
-- Interactive browser game using HTML, CSS and JavaScript
-
-### ❌ Tic Tac Toe
-- Two-player browser game using HTML, CSS and JavaScript
+- GitHub: https://github.com/Syed-shahenoor
+- LinkedIn: https://www.linkedin.com/in/syed-shahenoor
+- Email: shahenoorsyed6@gmail.com
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Syed-shahenoor&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-shahenoor&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Syed-shahenoor&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-shahenoor&theme=tokyo-night"/>
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/Syed-shahenoor">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/syed-shahenoor">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shahenoorsyed6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my profile!
